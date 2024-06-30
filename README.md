@@ -1,6 +1,10 @@
 # Документация
 [План тестирования](https://github.com/AlexeiBabeshko/DiplomQA/blob/master/Documents/Plan.md)
 
+[Отчет по итогам тестирования](https://github.com/AlexeiBabeshko/DiplomQA/blob/master/Documents/Report.md)
+
+[Отчет по итогам автоматизации](https://github.com/AlexeiBabeshko/DiplomQA/blob/master/Documents/Summary.md)
+
 # Запуск автотестов
 ## Установить приложения
 1. Браузер: Chrome Версия 123.0.6312.60
